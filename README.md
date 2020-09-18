@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# resolute-ai-react-firebase-authentication
+A simple React Js App with Firebase Authentication &amp; Authorization. Serverless
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -67,7 +69,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-=======
-# resolute-ai-react-firebase-authentication
-A simple React Js App with Firebase Authentication &amp; Authorization. Serverless
->>>>>>> 0131ee461b49994e7ba2b7f34afab6a65226783f
+
